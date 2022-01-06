@@ -1,113 +1,90 @@
 body{
-   margin: 0%;
-    font-family: 'Poppins', sans-serif;
-}
-h1{
-    font-size: 50px;
-}
-.border-item{
-    border-left: 5px solid rgb(48, 197, 78);
-    border-radius: 5px 5px;
-}
-.orange{
-    color: orange;
-}
-.flexible-container{
-    display: flex;
-}
-.half-width{
-    width: 60%;
-    margin-left: 5%;
-    margin-top: 5%;
-    margin-bottom: 5%;
-    margin-right: 5%;
-    
-}
-.half-width img{
-    width: 75%;
-}
-.link-button{
-    text-decoration: none;
-    padding: 10px 40px;
-    color: white;
-    border-radius: 10px;
-    background-image: linear-gradient(red, yellow);
-}
-.mymission{
-    text-align: center
-}
-.miss-color{
-    color: purple;
-}
-
-.flex-container{
-    display: flex;
-    justify-content: space-around;
-    padding: 50px;
-
-}
-div img{
-    width: 30%;
-}
-.mission{
-    background-color: aqua;
-    border-radius: 25px; 
-    width: 28%;
-    padding: 20px;
-}
-
-.vission{
-    background-color: rgb(190, 218, 218);
-    border-radius: 25px; 
-    width: 28%;
-    padding: 20px;
-}
-.goal{
-    background-color: antiquewhite;
-    border-radius: 25px; 
-    width: 28%;
-    padding: 20px;
-}
-.corona{
-    text-align: center;
-}
-.corona-app  img{
-    width: 80%;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-footer{
-    text-align: center;
-    background-color: black;
-}
-footer p {
-    color: white;
-}
-.mission-fotter{
-    color: white;
-}
-.mission-year{
-    color: red;
-}
+    margin: 0%;
+     font-family: 'Poppins', sans-serif;
+ }
+ h1{
+     font-size: 50px;
+ }
+ .border-item{
+     border-left: 5px solid rgb(48, 197, 78);
+     border-radius: 5px 5px;
+ }
+ .orange{
+     color: orange;
+ }
+ .flexible-container{
+     display: flex;
+ }
+ .half-width{
+     width: 60%;
+     margin-left: 5%;
+     margin-top: 5%;
+     margin-bottom: 5%;
+     margin-right: 5%;
+     
+ }
+ .half-width img{
+     width: 75%;
+ }
+ .link-button{
+     text-decoration: none;
+     padding: 10px 40px;
+     color: white;
+     border-radius: 10px;
+     background-image: linear-gradient(red, yellow);
+ }
+ .mymission{
+     text-align: center
+ }
+ .miss-color{
+     color: purple;
+ }
+ 
+ .flex-container{
+     display: flex;
+     justify-content: space-around;
+     padding: 50px;
+ 
+ }
+ div img{
+     width: 30%;
+ }
+ .mission{
+     background-color: aqua;
+     border-radius: 25px; 
+     width: 28%;
+     padding: 20px;
+ }
+ 
+ .vission{
+     background-color: rgb(190, 218, 218);
+     border-radius: 25px; 
+     width: 28%;
+     padding: 20px;
+ }
+ .goal{
+     background-color: antiquewhite;
+     border-radius: 25px; 
+     width: 28%;
+     padding: 20px;
+ }
+ .corona{
+     text-align: center;
+ }
+ .corona-app  img{
+     width: 80%;
+ }
+ 
+ footer{
+     text-align: center;
+     background-color: black;
+ }
+ footer p {
+     color: white;
+ }
+ .mission-fotter{
+     color: white;
+ }
+ .mission-year{
+     color: red;
+ }
